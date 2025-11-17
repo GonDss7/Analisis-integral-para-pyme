@@ -35,3 +35,56 @@ El objetivo es **transformar una operación tradicional en un modelo de gestión
 
 ## 🧱 3. Arquitectura del Proyecto
 
+-Excel (Raw Data)
+-↓
+-Python / SQL (ETL, Limpieza, Cálculo de KPIs)
+-↓
+-Modelado de Datos (Tablas Fact & Dim)
+-↓
+-Dashboard (Tableau / Power BI)
+
+## 📂 4. Estructura del Repositorio
+-📁 data/ → datasets originales y transformados
+-📁 scripts/ → SQL y Python del proceso ETL
+-📁 dashboards/ → imágenes y recursos del dashboard
+-📁 notebooks/ → análisis exploratorio y cálculos
+-📄 README.md → documentación del proyecto
+
+## 📊 5. KPIs Principales
+
+### **Financieros**
+- Margen bruto por producto / marca / categoría  
+- Margen neto (según estructura de costos)  
+- ROI por producto  
+- % Costos fijos vs variables  
+- Pricing recomendado  
+
+### **Comerciales**
+- Ventas totales (unidades / facturación)  
+- Top productos por rentabilidad  
+- Ventas por categoría, marca y proveedor  
+- Clientes y ticket promedio  
+
+### **Operativos**
+- Rotación de stock  
+- Días de inventario  
+- Oportunidades de reposición  
+- Eficiencia por proveedor  
+
+---
+
+## 🧪 6. Metodología ETL
+
+### **1. Extracción**
+- Archivos Excel creados manualmente  
+- Simulación de ventas, productos, stock y costos
+
+### **2. Transformación**
+- Limpieza, normalización y validación  
+- Cálculo de márgenes, costos, impuestos y pricing  
+- Unión de tablas fact y dim  
+
+### **3. Carga**
+- Exportación a SQL o carga directa en herramientas BI  
+- Creación de relaciones y modelo estrella 
+
