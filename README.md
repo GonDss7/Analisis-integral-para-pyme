@@ -86,5 +86,37 @@ El objetivo es **transformar una operación tradicional en un modelo de gestión
 
 ### **3. Carga**
 - Exportación a SQL o carga directa en herramientas BI  
-- Creación de relaciones y modelo estrella 
+- Creación de relaciones y modelo estrella
+  
+  ## 📈 7. Resultados y Dashboard
+
+🔗 **Dashboard en Tableau Public:**  
+https://public.tableau.com/views/PaneldecontrolparaPymeretail/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## 🧭 8. Conclusiones Principales
+
+- Los productos con mayor facturación no siempre son los más rentables.  
+- La estructura de costos permite detectar oportunidades de pricing por marca y categoría.  
+- La rotación de stock muestra riesgos de quiebre para productos de alta demanda.  
+- La pyme puede **mejorar eficiencia operativa** controlando proveedores y costos variables.  
+- Un enfoque data-driven permite decisiones más claras y rápidas en pricing, compras y ventas.
+
+---
+
+## 🛠 9. Tecnologías Utilizadas
+
+- **SQL** (PostgreSQL / SQLite)  
+- **Python** (Pandas, NumPy)  
+- **Excel** (ETL inicial y estructura de costos)  
+- **Tableau / Power BI** (visualización)  
+- **GitHub** (documentación y control de versiones)
+
+---
+
+## 👨‍💻 Autor
+
+**Gonzalo Dalmasso Müller**  
+Business & Data Analyst  
+LinkedIn: https://linkedin.com/in/gonzalo-dalmasso-486094206  
+GitHub: https://github.com/GonDss7
 
