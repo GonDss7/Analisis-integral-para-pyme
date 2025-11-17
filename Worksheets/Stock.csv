@@ -1,0 +1,150 @@
+﻿Product ID;Nombre;Stock inicial;Salidas;Stock final
+P001;Coca cola original lata 220ml;300;198;102
+P002;Coca cola original 237ml;300;67;233
+P003;Coca cola original lata 354ml;300;202;98
+P004;Coca cola original lata Zero 354 ml;300;121;179
+P005;Coca cola original 500ml;300;144;156
+P006;Coca cola original Zero 500ml;300;116;184
+P007;Coca cola light 310ml;300;205;95
+P008;Coca cola original 1l;300;167;133
+P009;Coca cola Zero 1l;300;78;222
+P010;Coca cola retornable 1,25l;300;132;168
+P011;Coca cola retornable Zero 1,25l;300;153;147
+P012;Coca cola original 1,5l;300;162;138
+P013;Coca cola Zero 1,5l;300;138;162
+P014;Coca cola Light 1,5l;300;102;198
+P015;Coca cola retornable 2l;300;158;142
+P016;Coca cola retornable Zero 2l;300;133;167
+P017;Coca cola original 2,25l;300;102;198
+P018;Coca cola original Zero 2,25l;300;69;231
+P019;Sprite lata 354ml;300;91;209
+P020;Sprite lata Zero 354ml;300;157;143
+P021;Sprite ice 473ml;300;269;31
+P022;Sprite 500ml;300;124;176
+P023;Sprite Zero 500ml;300;158;142
+P024;Sprite 1l;300;62;238
+P025;Sprite 1,5l;300;110;190
+P026;Sprite Zero 1,5l;300;181;119
+P027;Sprite 2,25l;300;152;148
+P028;Sprite Zero 2,25l;300;145;155
+P029;Fanta lata 354ml;300;131;169
+P030;Fanta lata Zero 354ml;300;160;140
+P031;Fanta halloween 473ml;300;128;172
+P032;Fanta 500ml;300;193;107
+P033;Fanta Zero 500ml;300;123;177
+P034;Fanta 1l;300;168;132
+P035;Fanta 1,5l;300;139;161
+P036;Fanta Zero 1,5l;300;140;160
+P037;Fanta 2,25l;300;160;140
+P038;Fanta Zero 2,25l;300;173;127
+P039;Schweppes ginger 310l;300;117;183
+P040;Schweppes tonica 310l;300;120;180
+P041;Schweppes tonica Zero 310l;300;79;221
+P042;Schweppes pomelo 310l;300;174;126
+P043;Schweppes pomelo 1,5l;300;115;185
+P044;Schweppes tonica 1,5l;300;98;202
+P045;Schweppes citrus 1,5l;300;75;225
+P046;Aquarius anana 500ml;300;217;83
+P047;Aquarius pera 500ml;300;191;109
+P048;Aquarius pomelo 500ml;300;110;190
+P049;Aquarius uva 500ml;300;139;161
+P050;Aquarius naranja 500ml;300;141;159
+P051;Aquarius manzana 500ml;300;168;132
+P052;Aquarius limonada 500ml;300;168;132
+P053;Aquarius anana 1,5l;300;190;110
+P054;Aquarius pera 1,5l;300;157;143
+P055;Aquarius pomelo 1,5l;300;155;145
+P056;Aquarius uva 1,5l;300;73;227
+P057;Aquarius naranja 1,5l;300;175;125
+P058;Aquarius manzana 1,5l;300;234;66
+P059;Aquarius limonada 1,5l;300;170;130
+P060;Aquarius pera 2,25l;300;134;166
+P061;Aquarius pomelo 2,25l;300;89;211
+P062;Aquarius uva 2,25l;300;130;170
+P063;Aquarius naranja 2,25l;300;80;220
+P064;Aquarius manzana 2,25l;300;66;234
+P065;Aquarius limonada 2,25l;300;106;194
+P066;Monster Pipeline 473ml;300;124;176
+P067;Monster Watermelon 473ml;300;150;150
+P068;Monster Ultra 473ml;300;144;156
+P069;Monster Sunrise 473ml;300;132;168
+P070;Monster Vr46 473ml;300;280;20
+P071;Monster Reserve 473ml;300;141;159
+P072;Monster Paradise 437ml;300;208;92
+P073;Monster Original 437ml;300;165;135
+P074;Pepsi lata 354ml;300;192;108
+P075;Pepsi Black lata 354ml;300;122;178
+P076;Pepsi 500ml;300;89;211
+P077;Pepsi Black 500ml;300;178;122
+P078;Pepsi 1,5l;300;257;43
+P079;Pepsi Black 1,5l;300;202;98
+P080;Pepsi 2l;300;184;116
+P081;Pepsi Black 2l;300;179;121
+P082;Seven up lata 354ml;300;165;135
+P083;Seven up 500ml;300;116;184
+P084;Seven up 1,5l;300;211;89
+P085;Seven up light 1,5l;300;102;198
+P086;Seven up 2,25l;300;186;114
+P087;Seven up light 2,25l;300;229;71
+P088;Paso de los toros lata 269ml;300;89;211
+P089;Paso de los toros 500ml;300;109;191
+P090;Pasos de los toros tonica 269ml;300;90;210
+P091;Paso de los toros 1,5l ;300;125;175
+P092;Paso de los toros tonica 1,5l;300;62;238
+P093;Paso de los toros light 1,5l;300;126;174
+P094;Paso de los toros 2,25l;300;203;97
+P095;Red bull 250ml;300;98;202
+P096;Red bull Sugarfree 250ml;300;197;103
+P097;Red bull red edition 250ml;300;158;142
+P098;Red bull winter edition 250ml;300;97;203
+P099;Red bull green edition 250ml;300;121;179
+P100;H2o limoneto 500ml;300;125;175
+P101;H20 citrus 500ml;300;140;160
+P102;H20 limoneto 1,5l;300;133;167
+P103;H20 citrus 1,5l;300;165;135
+P104;H20 limoneto 2,25l;300;108;192
+P105;H20 citrus 2,25l;300;171;129
+P106;H20 pomelo 1,5l;300;178;122
+P107;H20 manzana 1,5l;300;162;138
+P108;H20 limonada 1,5l;300;207;93
+P109;Levite pomelo 500ml;300;125;175
+P110;Levite naranja 500ml;300;154;146
+P111;Levite manzana 500ml;300;180;120
+P112;Levite pera 500ml;300;126;174
+P113;Levite pomelo 1,5l;300;197;103
+P114;Levite naranja 1,5l;300;184;116
+P115;Levite manzana 1,5l;300;151;149
+P116;Levite pera 1,5l;300;145;155
+P117;Levite pomelo 2,25l;300;144;156
+P118;Levite naranja 2,25l;300;99;201
+P119;Levite manzana 2,25l;300;107;193
+P120;Levite pera 2,25l;300;122;178
+P121;Gatorade cool blue 500ml;300;201;99
+P122;Gatorade naranja 500ml;300;181;119
+P123;Gatorade frutas tropicales 500ml;300;173;127
+P124;Gatorade manzana 500ml;300;153;147
+P125;Gatorade cool blue 1,25l;300;160;140
+P126;Gatorade naranja 1,25l;300;103;197
+P127;Gatorade frutas tropicales 1,25l;300;141;159
+P128;Gatorade manzana 1,25;300;232;68
+P129;Citric pomelo 500ml ;300;213;87
+P130;Citric manzana 500ml;300;138;162
+P131;Citric naranja 500ml ;300;73;227
+P132;Citric frutilla con naranja 500ml;300;176;124
+P133;Citric durazno con naranja 500ml;300;158;142
+P134;Citric limonada con menta 500ml;300;151;149
+P135;Citric pomelo con jengibre 500ml;300;111;189
+P136;Citric pomelo 1l ;300;90;210
+P137;Citric manzana 1l;300;79;221
+P138;Citric naranja 1l ;300;220;80
+P139;Citric frutilla con naranja 1l;300;152;148
+P140;Citric durazno con naranja 1l;300;118;182
+P141;Citric limonada con menta 1l;300;148;152
+P142;Citric pomelo con jengibre 1l;300;106;194
+P143;Perrier carbonatada 250ml;300;148;152
+P144;Perrier maison lima 250ml;300;111;189
+P145;Perrier maison pomelo 250ml;300;176;124
+P146;Perrier carbonatada 330ml;300;126;174
+P147;Perrier carbonatada 500ml;300;97;203
+P148;Perrier maison raspberry rose 330ml;300;120;180
+P149;Perrier maison citrus cherry;300;142;158

@@ -1,0 +1,251 @@
+﻿Cliente ID;Nombre;Barrio;Condicion fiscal
+C001;Fernando García;San Martin;Consumidor final
+C002;Camila García;San Martin;Consumidor final
+C003;Valentina Cruz;San Martin;Consumidor final
+C004;Javier López;San Martin;Consumidor final
+C005;Miguel Cruz;San Martin;Consumidor final
+C006;Diego Ortega;San Martin;Consumidor final
+C007;Juan Flores;San Martin;Consumidor final
+C008;Valentina Ortega;San Martin;Consumidor final
+C009;Diego García;San Martin;Consumidor final
+C010;Diego Rodríguez;San Martin;Consumidor final
+C011;Pedro Vargas;San Martin;Consumidor final
+C012;Miguel Pérez;San Martin;Consumidor final
+C013;José Pérez;San Martin;Consumidor final
+C014;Juan Silva;San Martin;Consumidor final
+C015;Pedro Martínez;San Martin;Consumidor final
+C016;Lucía Mendoza;San Martin;Consumidor final
+C017;Javier Mendoza;San Martin;Consumidor final
+C018;Isabella Pérez;San Martin;Consumidor final
+C019;Diego Castro;San Martin;Consumidor final
+C020;Javier García;San Martin;Consumidor final
+C021;Ana Jiménez;San Martin;Consumidor final
+C022;Fernando Silva;San Martin;Consumidor final
+C023;Diego Rodríguez;San Martin;Consumidor final
+C024;Ana Jiménez;San Martin;Consumidor final
+C025;José Jiménez;Alberdi;Consumidor final
+C026;Luis Torres;Alberdi;Consumidor final
+C027;Juan Ortega;Alberdi;Consumidor final
+C028;Luis Torres;Alberdi;Consumidor final
+C029;María Fernández;Alberdi;Consumidor final
+C030;Juan Vargas;Alberdi;Consumidor final
+C031;Pedro Vargas;Alberdi;Consumidor final
+C032;Isabella Cruz;Alberdi;Consumidor final
+C033;Diego García;Alberdi;Consumidor final
+C034;José Jiménez;Alberdi;Consumidor final
+C035;Luis Ortega;Alberdi;Consumidor final
+C036;Juan Pérez;Alberdi;Consumidor final
+C037;Sofía Torres;Alberdi;Consumidor final
+C038;Sofía Cruz;Alberdi;Consumidor final
+C039;María Fernández;Alberdi;Consumidor final
+C040;Isabella Fernández;Alberdi;Consumidor final
+C041;Pedro Mendoza;Alberdi;Consumidor final
+C042;Pedro Fernández;Alberdi;Consumidor final
+C043;Ana Torres;Alberdi;Consumidor final
+C044;María Silva;Alberdi;Consumidor final
+C045;Paula Ramírez;Alberdi;Consumidor final
+C046;Luis Martínez;Alberdi;Consumidor final
+C047;Camila Flores;Alberdi;Consumidor final
+C048;Miguel Sánchez;Alberdi;Consumidor final
+C049;Juan Rojas;Alberdi;Consumidor final
+C050;Martina Fernández;Urquiza;Consumidor final
+C051;Ana Ortega;Urquiza;Consumidor final
+C052;Isabella González;Urquiza;Consumidor final
+C053;Javier Vargas;Urquiza;Consumidor final
+C054;Paula García;Urquiza;Consumidor final
+C055;Camila Torres;Urquiza;Consumidor final
+C056;Camila Rodríguez;Urquiza;Consumidor final
+C057;Diego Vargas;Urquiza;Consumidor final
+C058;Miguel Martínez;Urquiza;Consumidor final
+C059;Ana Jiménez;Urquiza;Consumidor final
+C060;Lucía Silva;Urquiza;Consumidor final
+C061;Valentina Jiménez;Urquiza;Consumidor final
+C062;Andrés Morales;Urquiza;Consumidor final
+C063;Javier Martínez;Urquiza;Consumidor final
+C064;Isabella Jiménez;Urquiza;Consumidor final
+C065;Isabella Torres;Urquiza;Consumidor final
+C066;Miguel Ramírez;Urquiza;Consumidor final
+C067;Luis Rojas;Urquiza;Consumidor final
+C068;Miguel Flores;Urquiza;Consumidor final
+C069;Carlos Vargas;Urquiza;Consumidor final
+C070;Ana González;Urquiza;Consumidor final
+C071;Laura Rodríguez;Urquiza;Consumidor final
+C072;Javier García;Urquiza;Consumidor final
+C073;Fernando García;Urquiza;Consumidor final
+C074;Camila Ortega;Urquiza;Consumidor final
+C075;Carlos Sánchez;Rosas;Consumidor final
+C076;Pedro García;Rosas;Consumidor final
+C077;Juan Pérez;Rosas;Consumidor final
+C078;Isabella Mendoza;Rosas;Consumidor final
+C079;Laura Fernández;Rosas;Consumidor final
+C080;Fernando Rojas;Rosas;Consumidor final
+C081;Paula Vargas;Rosas;Consumidor final
+C082;José López;Rosas;Consumidor final
+C083;Valentina Vargas;Rosas;Consumidor final
+C084;María Flores;Rosas;Consumidor final
+C085;Andrés López;Rosas;Consumidor final
+C086;Martina Sánchez;Rosas;Consumidor final
+C087;Sofía Flores;Rosas;Consumidor final
+C088;Fernando Flores;Rosas;Consumidor final
+C089;Luis García;Rosas;Consumidor final
+C090;Lucía Martínez;Rosas;Consumidor final
+C091;Sofía Ramírez;Rosas;Consumidor final
+C092;Sofía Morales;Rosas;Consumidor final
+C093;Paula López;Rosas;Consumidor final
+C094;Isabella Ramírez;Rosas;Consumidor final
+C095;Paula Vargas;Rosas;Consumidor final
+C096;Laura Martínez;Rosas;Consumidor final
+C097;Diego García;Rosas;Consumidor final
+C098;Ana Jiménez;Rosas;Consumidor final
+C099;Pedro Ramírez;Rosas;Consumidor final
+C100;Diego Ortega;Artigas;Consumidor final
+C101;Valentina Flores;Artigas;Consumidor final
+C102;Ana Rodríguez;Artigas;Consumidor final
+C103;Laura Rodríguez;Artigas;Consumidor final
+C104;Ana Torres;Artigas;Consumidor final
+C105;Diego López;Artigas;Consumidor final
+C106;Juan Silva;Artigas;Consumidor final
+C107;Javier Castro;Artigas;Consumidor final
+C108;Miguel Torres;Artigas;Consumidor final
+C109;Lucía Rojas;Artigas;Consumidor final
+C110;Fernando Martínez;Artigas;Consumidor final
+C111;Pedro García;Artigas;Consumidor final
+C112;Javier Vargas;Artigas;Consumidor final
+C113;Miguel Ramírez;Artigas;Consumidor final
+C114;Lucía González;Artigas;Consumidor final
+C115;Camila Rojas;Artigas;Consumidor final
+C116;Valentina Pérez;Artigas;Consumidor final
+C117;Sofía Torres;Artigas;Consumidor final
+C118;Diego Castro;Artigas;Consumidor final
+C119;Juan González;Artigas;Consumidor final
+C120;Pedro Cruz;Artigas;Consumidor final
+C121;Isabella Ortega;Artigas;Consumidor final
+C122;Juan Morales;Artigas;Consumidor final
+C123;Carlos Fernández;Artigas;Consumidor final
+C124;Juan Cruz;Artigas;Consumidor final
+C125;Ana Ramírez;San Rafael;Consumidor final
+C126;Camila Fernández;San Rafael;Consumidor final
+C127;Javier Ramírez;San Rafael;Consumidor final
+C128;Sofía Morales;San Rafael;Consumidor final
+C129;José Sánchez;San Rafael;Consumidor final
+C130;Pedro Cruz;San Rafael;Consumidor final
+C131;Paula Sánchez;San Rafael;Consumidor final
+C132;Isabella González;San Rafael;Consumidor final
+C133;Javier Rodríguez;San Rafael;Consumidor final
+C134;Lucía Vargas;San Rafael;Consumidor final
+C135;Sofía Castro;San Rafael;Consumidor final
+C136;Carlos Ramírez;San Rafael;Consumidor final
+C137;Martina Vargas;San Rafael;Consumidor final
+C138;Pedro Flores;San Rafael;Consumidor final
+C139;José Ramírez;San Rafael;Consumidor final
+C140;Andrés Rodríguez;San Rafael;Consumidor final
+C141;Paula García;San Rafael;Consumidor final
+C142;Ana Martínez;San Rafael;Consumidor final
+C143;Pedro Rodríguez;San Rafael;Consumidor final
+C144;Diego López;San Rafael;Consumidor final
+C145;Javier Pérez;San Rafael;Consumidor final
+C146;Miguel Castro;San Rafael;Consumidor final
+C147;Paula García;San Rafael;Consumidor final
+C148;Javier Torres;San Rafael;Consumidor final
+C149;Pedro Rodríguez;San Rafael;Consumidor final
+C150;Juan López;Santa fe;Consumidor final
+C151;Valentina Sánchez;Santa fe;Consumidor final
+C152;Pedro Mendoza;Santa fe;Consumidor final
+C153;José Vargas;Santa fe;Consumidor final
+C154;Diego Mendoza;Santa fe;Consumidor final
+C155;Javier Fernández;Santa fe;Consumidor final
+C156;Luis Torres;Santa fe;Consumidor final
+C157;Miguel Vargas;Santa fe;Consumidor final
+C158;Martina Castro;Santa fe;Consumidor final
+C159;José Rojas;Santa fe;Consumidor final
+C160;Ana Torres;Santa fe;Consumidor final
+C161;María García;Santa fe;Consumidor final
+C162;Lucía Torres;Santa fe;Consumidor final
+C163;María Jiménez;Santa fe;Consumidor final
+C164;Paula González;Santa fe;Consumidor final
+C165;Camila Fernández;Santa fe;Consumidor final
+C166;Luis Morales;Santa fe;Consumidor final
+C167;Ana Morales;Santa fe;Consumidor final
+C168;Laura Martínez;Santa fe;Consumidor final
+C169;Juan Ortega;Santa fe;Consumidor final
+C170;Isabella Torres;Santa fe;Consumidor final
+C171;Laura Jiménez;Santa fe;Consumidor final
+C172;Miguel Silva;Santa fe;Consumidor final
+C173;Isabella López;Santa fe;Consumidor final
+C174;Juan Rodríguez;Santa fe;Consumidor final
+C175;Camila Rojas;General Roca;Consumidor final
+C176;Camila Castro;General Roca;Consumidor final
+C177;Andrés Torres;General Roca;Consumidor final
+C178;Pedro Pérez;General Roca;Consumidor final
+C179;Martina González;General Roca;Consumidor final
+C180;María Pérez;General Roca;Consumidor final
+C181;Juan Castro;General Roca;Consumidor final
+C182;Camila Jiménez;General Roca;Consumidor final
+C183;Javier Martínez;General Roca;Consumidor final
+C184;Sofía Jiménez;General Roca;Consumidor final
+C185;Valentina Castro;General Roca;Consumidor final
+C186;Laura Torres;General Roca;Consumidor final
+C187;Juan Ramírez;General Roca;Consumidor final
+C188;Camila González;General Roca;Consumidor final
+C189;Paula Torres;General Roca;Consumidor final
+C190;Paula García;General Roca;Consumidor final
+C191;Javier González;General Roca;Consumidor final
+C192;Valentina González;General Roca;Consumidor final
+C193;Camila Mendoza;General Roca;Consumidor final
+C194;Sofía Pérez;General Roca;Consumidor final
+C195;Andrés Ramírez;General Roca;Consumidor final
+C196;Sofía Vargas;General Roca;Consumidor final
+C197;José Martínez;General Roca;Consumidor final
+C198;Valentina Fernández;General Roca;Consumidor final
+C199;Carlos Ortega;General Roca;Consumidor final
+C200;Luis Mendoza;San Jose;Consumidor final
+C201;José Pérez;San Jose;Consumidor final
+C202;Lucía Ramírez;San Jose;Consumidor final
+C203;Andrés Martínez;San Jose;Consumidor final
+C204;Pedro Vargas;San Jose;Consumidor final
+C205;María Sánchez;San Jose;Consumidor final
+C206;Paula Morales;San Jose;Consumidor final
+C207;Martina Sánchez;San Jose;Consumidor final
+C208;José Mendoza;San Jose;Consumidor final
+C209;Fernando Rodríguez;San Jose;Consumidor final
+C210;Isabella Morales;San Jose;Consumidor final
+C211;Carlos Jiménez;San Jose;Consumidor final
+C212;Paula Pérez;San Jose;Consumidor final
+C213;Fernando Mendoza;San Jose;Consumidor final
+C214;Diego Jiménez;San Jose;Consumidor final
+C215;Laura Flores;San Jose;Consumidor final
+C216;Paula Rojas;San Jose;Consumidor final
+C217;Ana Pérez;San Jose;Consumidor final
+C218;Fernando Morales;San Jose;Consumidor final
+C219;Laura Jiménez;San Jose;Consumidor final
+C220;Isabella Morales;San Jose;Consumidor final
+C221;Martina Rodríguez;San Jose;Consumidor final
+C222;Juan Fernández;San Jose;Consumidor final
+C223;José Cruz;San Jose;Consumidor final
+C224;José Jiménez;San Jose;Consumidor final
+C225;Juan Martínez;San Cayetano;Consumidor final
+C226;Juan Vargas;San Cayetano;Consumidor final
+C227;Fernando Rojas;San Cayetano;Consumidor final
+C228;Martina Castro;San Cayetano;Consumidor final
+C229;José Ramírez;San Cayetano;Consumidor final
+C230;Luis Pérez;San Cayetano;Consumidor final
+C231;Lucía Rojas;San Cayetano;Consumidor final
+C232;Camila Martínez;San Cayetano;Consumidor final
+C233;Luis Martínez;San Cayetano;Consumidor final
+C234;Sofía Ramírez;San Cayetano;Consumidor final
+C235;María García;San Cayetano;Consumidor final
+C236;Pedro González;San Cayetano;Consumidor final
+C237;Miguel Morales;San Cayetano;Consumidor final
+C238;Paula López;San Cayetano;Consumidor final
+C239;Diego Vargas;San Cayetano;Consumidor final
+C240;María Flores;San Cayetano;Consumidor final
+C241;Ana Morales;San Cayetano;Consumidor final
+C242;Miguel Vargas;San Cayetano;Consumidor final
+C243;Camila Jiménez;San Cayetano;Consumidor final
+C244;María Rojas;San Cayetano;Consumidor final
+C245;Valentina Rojas;San Cayetano;Consumidor final
+C246;Diego Silva;San Cayetano;Consumidor final
+C247;Laura García;San Cayetano;Consumidor final
+C248;Martina Rodríguez;San Cayetano;Consumidor final
+C249;Pedro Ramírez;San Cayetano;Consumidor final
+C250;Ana Sánchez;San Cayetano;Consumidor final
