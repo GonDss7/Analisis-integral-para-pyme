@@ -1,27 +1,37 @@
-Este proyecto es un análisis integral del rendimiento comercial y financiero de una pyme real del sector retail B2C, dedicada a la venta de productos consumibles. Todo el ecosistema de datos fue construido completamente desde cero, incluyendo:
+# 🛒 Retail B2C Analytics – End-to-End Data Project  
+Análisis integral de una pyme B2C de productos consumibles, desarrollado completamente desde cero.  
+Incluye diseño de base de datos, ETL, KPIs, modelado financiero y dashboard interactivo.
 
-Diseño del dataset maestro
+---
 
-Modelado de productos, marcas, proveedores, categorías y subcategorías
+## 📌 1. Descripción del Proyecto
 
-Construcción de tablas de ventas, stock y movimientos
+Este proyecto consiste en la creación end-to-end del ecosistema de datos de una **pyme real del sector retail B2C**, dedicada a la venta de productos consumibles.
 
-Estructura detallada de costos: precio de compra, IVA, IIBB, flete, costos fijos y variables
+Todo el sistema fue **desarrollado desde cero**, incluyendo:
 
-Cálculo de márgenes, pricing, ROI por producto y KPIs operativos
+- Construcción del dataset maestro  
+- Modelado de productos, categorías, marcas y proveedores  
+- Generación de tablas de ventas, stock y movimientos  
+- Diseño de estructura de costos  
+- Cálculo de márgenes, pricing, indicadores financieros y operativos  
+- Proceso ETL completo (Excel → SQL/Python → Dashboard)  
+- Visualización final en Tableau / Power BI
 
-Proceso ETL completo en Excel/SQL/Python
+El objetivo es **transformar una operación tradicional en un modelo de gestión basado en datos**, permitiendo decisiones comerciales y financieras más rápidas, confiables y eficientes.
 
-El dashboard final permite a la empresa:
+---
 
-Identificar productos más rentables
+## 🎯 2. Objetivos del Proyecto
 
-Evaluar eficiencia comercial
+- Crear una base de datos desde cero para simular la operación completa de una pyme.  
+- Diseñar tablas y relaciones que permitan análisis financiero, comercial y operativo.  
+- Desarrollar un proceso ETL reproducible y escalable.  
+- Construir un dashboard profesional para toma de decisiones.  
+- Analizar ventas, rentabilidad, stock y tendencias clave.  
+- Identificar oportunidades de pricing, costos y eficiencia.
 
-Analizar rotación y stock disponible
+---
 
-Detectar oportunidades de pricing
+## 🧱 3. Arquitectura del Proyecto
 
-Medir impacto de marcas, categorías y proveedores
-
-El objetivo principal fue transformar una operación tradicional en un modelo de gestión basado en datos, facilitando decisiones rápidas, claras y orientadas a la eficiencia económica de la pyme.
